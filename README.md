@@ -1,1 +1,1 @@
-# PRODIGY-INFOTECH-DS-TASK05
+I am pleased to share that I have successfully completed Task 5 of my Data Science internship at Prodigy Infotech. For this task, I utilized the us accident dataset from Kaggle, conducting a thorough Exploratory Data Analysis (EDA) to uncover significant patterns and insights within the data.
